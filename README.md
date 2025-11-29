@@ -157,6 +157,7 @@ The gap between occasional therapy and daily mental health support is vast and d
 cd frontend
 npm install
 npm run dev
+```
 
 ## Screen Shots
 ![Chatbot](./images/chatbot.png)
